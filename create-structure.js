@@ -13,13 +13,15 @@ const projectStructure = {
     config: {},
     services: {},
     views: {},
+    tests: {},
+    "index.js":""
   },
   public: {
     css: {},
     js: {},
     images: {},
   },
-  tests: {},
+
   "README.md":
     "# Your Project Title\n\n## Description\n\nYour project description.",
   ".gitignore": "node_modules/\ndist/\n.env\n",
