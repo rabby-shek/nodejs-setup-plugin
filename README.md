@@ -37,3 +37,8 @@ To get started with the project, follow these steps:
 
    ```bash
    git clone <https://github.com/rabby-shek/nodejs-setup-plugin.git>
+
+2. **Run command for creating the structure** 
+
+   ```bash
+   node create-structure your-project-name
