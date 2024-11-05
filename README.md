@@ -36,4 +36,4 @@ To get started with the project, follow these steps:
 1. **Clone the repository** (or copy the structure if you haven't already):
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/rabby-shek/nodejs-setup-plugin.git>
