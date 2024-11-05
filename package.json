@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-setup-plugin",
+  "version": "1.0.0",
+  "description": "This is a backend project template designed to set up a clean and scalable structure for Node.js applications. It includes basic directories for organizing controllers, models, routes, middlewares, utilities, services, and configuration files. The template also includes basic setup files like `.gitignore`, `.env`, and a default `README.md`.",
+  "main": "create-structure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MD Rabby Shek Suvo",
+  "license": "ISC"
+}
